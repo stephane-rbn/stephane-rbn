@@ -1,9 +1,9 @@
 ### Hello, I'm Stephane! :wave:
 
-I am a French Product Manager based in Seoul, South Korea. 🇰🇷 🇫🇷
+I am a Product Manager based in Paris, France 🇫🇷
 
 - 🔎 Looking for a Product Manager or Technology Analyst position (let's have a talk!)
 - 🎓 Education: MSc in Information System Management / BSc in Software Engineering in France
 - ☝️ Former Software Developer, now I use code to build products to solve my own problems
-- 💻 Technologies: Python is currently my main tool (Ruby is still the prettiest one ❤️)
-- 👉 Find me on my [website](https://stephane-rbn.com) or [LinkedIn](https://www.linkedin.com/in/stephanerabenarisoa/)
+- 💻 Currently teaching myself mobile development with Flutter and AI workflow automation using n8n, and Korean
+- 👉 Find me on [LinkedIn](https://www.linkedin.com/in/stephanerabenarisoa/).
